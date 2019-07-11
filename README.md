@@ -46,7 +46,8 @@ This project builds a self-driving RC car using Raspberry Pi, Arduino and open s
   &emsp; &emsp;  `model_training.py`:        model training and validation  
   &emsp; &emsp;  `rc_driver_helper.py`:      helper classes/functions for `rc_driver.py`  
   &emsp; &emsp;  `rc_driver.py`:             receive data from raspberry pi and drive the RC car based on model prediction
-  
+ 
+ 
 **Traffic_signal**  
   &emsp; &emsp;  trafic signal sketch contributed by [@geek111](https://github.com/geek1111)
 
